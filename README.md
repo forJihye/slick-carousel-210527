@@ -1,3 +1,4 @@
-# esbuild-boilerplate
-210512-esbuild 
-https://esbuild.github.io/
+# slick-carousel
+
+[Github](https://github.com/kenwheeler/slick)
+[Demo](http://kenwheeler.github.io/slick/)

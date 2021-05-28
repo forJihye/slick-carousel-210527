@@ -2322,7 +2322,7 @@
             .find('.slick-slide')
             .removeClass('slick-active slick-center slick-current')
             .attr('aria-hidden', 'true');
-
+        console.log('allSlides', allSlides)
         _.$slides
             .eq(index)
             .addClass('slick-current');
